@@ -24,13 +24,21 @@ Josef Prusa was invovled in the RepRap project relatively early and designed a n
 
 ```
 
-The Prusa MK4 printers that we use in the DPL (Redmond) Makerspace are Prusa MK4S machines and are modeled on that original RepRap Prusa i3.
+The Prusa MK4 printers that we use in the Redmond Makerspace are Prusa MK4S machines and are modeled on that original RepRap Prusa i3. The Core One+ printers at the Central Makerspace are Prusa Core One+ machines which are also modeled on the RepRap i3 but with many upgrades and extensions. Both machines are shown below.
 
 ```{figure} ../ProjectImages/History/MK4S.jpg
 :alt:  MK4S
 :width: 600px
 :align: center
 **Prusa MK4S**
+
+```
+
+```{figure} ../ProjectImages/History/CoreOne.png
+:alt:  Core One+
+:width: 600px
+:align: center
+**Prusa Core One+**
 
 ```
 
