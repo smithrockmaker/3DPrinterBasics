@@ -1,6 +1,6 @@
 ### 3D Printers at the Deschutes Public Library
 
-The pupose of this guide is to explore the basic features of the 3D printing, the core elements of the workflow when using 3D printers, and the tools that are available for creating and printing objects. This is by no means a complete guide but is intended to provide enough information to safely begin your 3D printing journey at the DPL Makespace. 
+The pupose of this guide is to explore the basic features of the 3D printing, the core elements of the workflow when using 3D printers, and the tools that are available for creating and printing objects. This is by no means a complete guide but is intended to provide enough information to safely begin your 3D printing journey at one of the DPL Makespaces. 
 
 ### DPL Makerspaces: Central (in Bend) and Redmond
 
