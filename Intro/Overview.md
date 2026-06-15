@@ -42,10 +42,10 @@ Scrolling further down there is a section for Reservable Equipment and Training.
 Just below the training section are various resources for 3D printing as well as links to reserve a printer.
 
 ```{figure} ../ProjectImages/Intro/EquipReserve2.png
-:alt:  Makerspace Equipment Training
+:alt:  Makerspace Equipment Reserve
 :width: 600px
 :align: center
-**Makerspace Equipment Training**
+**Makerspace Equipment Reserve**
 
 ```
 
