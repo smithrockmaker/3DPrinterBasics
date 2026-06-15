@@ -1,6 +1,6 @@
 ### 3D Printers at the Deschutes Public Library
 
-The pupose of this guide is to explore the basic features of the 3D printing, the core elements of the workflow when using 3D printers, and the tools that are available for creating and printing objects. This is by no means a complete guide but is intended to provide enough information to safely begin your 3D printing journey at the DPL Makespace. 
+The pupose of this guide is to explore the basic features of the 3D printing, the core elements of the workflow when using 3D printers, and the tools that are available for creating and printing objects. This is by no means a complete guide but is intended to provide enough information to safely begin your 3D printing journey at one of the DPL Makespaces. 
 
 ### DPL Makerspaces: Central (in Bend) and Redmond
 
@@ -46,6 +46,37 @@ Just below the training section are various resources for 3D printing as well as
 :width: 600px
 :align: center
 **Makerspace Equipment Reserve**
+
+```
+#### Note about 3D printer reservation:
+
+The reservation link takes you to the room reservation tool. 
+
+```{figure} ../ProjectImages/Intro/DPLRoomReserve.png
+:alt:  DPL Room Reservations
+:width: 600px
+:align: center
+**DPL Room Reservations**
+
+```
+
+In the Branch menu are the current makerspaces. Select one or both.
+
+```{figure} ../ProjectImages/Intro/DPLReserveDrop.png
+:alt:  DPL Room Reservations: Branch Select
+:width: 600px
+:align: center
+**DPL Room Reservations: Branch Select**
+
+```
+
+Now the room reservation tool will allow you to book any available times for the 3D printer. If no 3D printer is shown it may be due to staffing constraints or other considerations. Check other days. Be aware that the library is still developing best practices for the use of the Makerspace and the reservation system so details of this process may change.
+
+```{figure} ../ProjectImages/Intro/DPLMakerspace3D.png
+:alt:  3D Printer Reservation
+:width: 600px
+:align: center
+**3D Printer Reservation**
 
 ```
 
