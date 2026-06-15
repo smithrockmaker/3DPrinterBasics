@@ -1,6 +1,6 @@
 ### Why?
 
-Makerspaces are new to the Deschutes Public Library (DPL) system. The first of these community spaces is in the Redmond Branch Library. In the Redmond Makerspace there a number of resources that are planned to be available to patrons as the makerspace develops. The 3D printers are one of those resources. This is a tool to guide patrons in accessing and using the 3D printers. Your feedback about this guide is always welcome as we work to improve your experience with the 3D printers in the makerspace. Feel free to share your insights with us with us [here](bemerson@cocc.edu).
+Makerspaces are a new feature of the Deschutes Public Library (DPL) system. The first of these community spaces was completed at the Redmond Branch Library. The recently completed Central Branch of the DPL system also has a Makerspace. In all the makerpaces there a number of resources that are available to patrons. Among those resources are 3D printers. This document is a tool to help guide patrons in accessing and using the 3D printers. Your feedback about this guide is always welcome as we work to improve your experience with the 3D printers in the makerspace. Feel free to share your insights with us with us [here](bemerson@cocc.edu).
 
 ### **Important Note:**
 
@@ -8,11 +8,11 @@ I feel like it is important to note that this presentation is meant to be a guid
 
 ### Who is the Audience?
 
-This guide is primarily intended to serve the patrons of the Deschutes Public Library (DPL) system though many of the processes and tools will be relevant to any user of 3D printers. Having said that, we hope that this guide is usedful to the general public as well. There is an overwhelming amount of information about 3D printing on the interwebs and this guide seeks to focus on skills needed to get started successfully in the DPL Makerspace(s). Once you have started you will find that the learning never stops.
+This guide is primarily intended to serve the patrons of the Deschutes Public Library (DPL) system though many of the processes and tools will be relevant to any user of 3D printers. Having said that, we hope that this guide is usedful to the general public as well. There is an overwhelming amount of information about 3D printing on the interwebs and this guide seeks to focus on basic skills needed to get started successfully in the DPL Makerspaces. Once you have started you will find that the learning never stops.
 
 ### Structure:
 
-This guide is being created in [jupyter{book}](https://jupyterbook.org/en/stable/intro.html). This creates a book like object which can be displayed as a web page or exported as a pdf document and is relatively easy to update and keep track of. A link to the current pdf of the guide can be found [here]() - not available yet:)
+This guide is being created in [jupyter{book}](https://jupyterbook.org/en/stable/intro.html). This creates a book like object which can be displayed as a web page or exported as a pdf document and is relatively easy to update and keep track of. A link to the current pdf of the guide can be found on the DPL Makerspace page with a range of 3D printing resources.
 
 ### Creative Commons:
 
